@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{2DDBD1BB-0BC6-4CBE-A40F-C09E183C56D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseSwitchLoops", "IfElseSwitchLoops\IfElseSwitchLoops.csproj", "{AB73F82B-7913-497D-A160-FF508281E475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2DDBD1BB-0BC6-4CBE-A40F-C09E183C56D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DDBD1BB-0BC6-4CBE-A40F-C09E183C56D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DDBD1BB-0BC6-4CBE-A40F-C09E183C56D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB73F82B-7913-497D-A160-FF508281E475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB73F82B-7913-497D-A160-FF508281E475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB73F82B-7913-497D-A160-FF508281E475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB73F82B-7913-497D-A160-FF508281E475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
