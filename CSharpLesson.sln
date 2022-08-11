@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseSwitchLoops", "IfElseSwitchLoops\IfElseSwitchLoops.csproj", "{AB73F82B-7913-497D-A160-FF508281E475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{1277FA28-8667-4B65-85AE-A90FF82D452C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AB73F82B-7913-497D-A160-FF508281E475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB73F82B-7913-497D-A160-FF508281E475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB73F82B-7913-497D-A160-FF508281E475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1277FA28-8667-4B65-85AE-A90FF82D452C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1277FA28-8667-4B65-85AE-A90FF82D452C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1277FA28-8667-4B65-85AE-A90FF82D452C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1277FA28-8667-4B65-85AE-A90FF82D452C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

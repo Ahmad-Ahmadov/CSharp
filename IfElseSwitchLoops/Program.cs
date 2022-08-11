@@ -42,7 +42,7 @@ namespace IfElseSwitchLoops
             //int k = m--;
             //Console.WriteLine(k);
             //Console.WriteLine(m);
-            int n = int.Parse(Console.ReadLine());
+            //int n = int.Parse(Console.ReadLine());
             //for (int i = 2; i < n; i++)
             //{
             //    if (n % i == 0)
@@ -66,12 +66,22 @@ namespace IfElseSwitchLoops
 
             //int[] nums = { 1, 2, 3, 5, 6, 7, 8, 9, 10 };
             //string name = "Ahmad";
-            
+
             //foreach (char m in name)
             //{
             //    Console.WriteLine(m);
             //}
-            
+            int[][] arrays = new int[3][];
+            int[] a = {1, 2, 3, 4};
+            int[] b = {5, 6, 12, 4};
+            int[] c = {9, 7, 13, 8};
+            arrays[0] = a;
+            arrays[1] = b;
+            arrays[2] = c;
+            foreach (var m in arrays)
+            {
+                Console.WriteLine(m[0]);
+            }
             Console.ReadLine();
 
         }
